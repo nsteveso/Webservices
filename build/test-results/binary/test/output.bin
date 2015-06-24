@@ -1,0 +1,18 @@
+ business-dashboard health check
+The response code was: 200
+business-security health check
+The response code was: 200
+	&business-user-management health check
+	The response code was: 200
+
+*business-notification-engine health check
+
+The response code was: 200
+falcon health check
+The response code was: 200
+falcon-admin health check
+The response code was: 200
+cas health check 1
+The response code was: 200
+cas health check 2
+The response code was: 200
